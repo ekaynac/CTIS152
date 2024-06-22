@@ -1,0 +1,4 @@
+Spark_Plug   600        3
+Brake_Pad    500        2
+Fuel_Filter  100        9
+Idler_Arm    300	4

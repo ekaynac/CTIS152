@@ -1,0 +1,7 @@
+6
+Dodge DemonSrt 100 100 99
+Chevrolet Tahoe 100 65 95 
+Dodge Charger 80 95 100 
+Pontiac GTO 70 90 85
+Chevrolet Corvette 30 45 86 
+Cadillac Eldorado 55 25 65

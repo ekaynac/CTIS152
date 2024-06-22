@@ -1,0 +1,12 @@
+sportoto 43 22 15 7
+arhavi 7 22 2 20
+ziraatbankasi 43 22 14 8
+halkbank 40 22 12 10
+tokat 16 22 6 16
+bursa 34 22 12 10
+arkasspor 50 22 16 6
+fenerbahce 58 22 20 2
+galatasaray 44 22 15 7
+istanbul 26 22 9 13
+inegol 16 22 6 16
+sorgun 19 22 5 17

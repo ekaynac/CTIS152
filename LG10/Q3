@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int checkChar(char *arr, char *ch, int cnt){
+    if(strcmp(arr+cnt, ch) == 1)
+        cnt--;
+    checkChar(*(++arr),ch,cnt);
+    return cnt;
+}
+int main(void){
+    int cnt=0;
+    printf("Enter a sentence: ");
+    char sent[50], ch[10];
+    scanf("%s", sent);
+    printf("Enter a character: ");
+    scanf("%s", &ch);
+    printf("\n%s\n", sent);
+    checkChar(sent, ch, cnt);
+}
